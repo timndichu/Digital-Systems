@@ -1,0 +1,4 @@
+
+*** Running vivado
+    with args -log MooreMachine_Rot_Sens.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source MooreMachine_Rot_Sens.tcl
+

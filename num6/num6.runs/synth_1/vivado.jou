@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Nov 14 16:19:05 2021
+# Process ID: 14284
+# Current directory: C:/Users/Timo/Documents/DSD/num6/num6.runs/synth_1
+# Command line: vivado.exe -log MooreMachine_Rot_Sens.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MooreMachine_Rot_Sens.tcl
+# Log file: C:/Users/Timo/Documents/DSD/num6/num6.runs/synth_1/MooreMachine_Rot_Sens.vds
+# Journal file: C:/Users/Timo/Documents/DSD/num6/num6.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
