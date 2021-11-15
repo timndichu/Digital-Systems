@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../num5.srcs/sources_1/new/mealy.vhd" \
+"../../../../num5.srcs/sim_1/new/tb_mealy.vhd" \
+
+# Do not sort compile order
+nosort
