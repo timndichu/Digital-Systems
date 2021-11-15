@@ -1,0 +1,14 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto bc131a5268a24ffc9e860b21390c097f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_counter_behav xil_defaultlib.tb_counter -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-619] entity port clk does not match with type std_logic of component port [C:/Users/Pc/Desktop/qn_8/qn_8.srcs/sim_1/new/tb_conter.vhd:10]
+ERROR: [VRFC 10-619] entity port clr does not match with type std_logic of component port [C:/Users/Pc/Desktop/qn_8/qn_8.srcs/sim_1/new/tb_conter.vhd:11]
+ERROR: [VRFC 10-619] entity port ent does not match with type std_logic of component port [C:/Users/Pc/Desktop/qn_8/qn_8.srcs/sim_1/new/tb_conter.vhd:12]
+ERROR: [VRFC 10-619] entity port enp does not match with type std_logic of component port [C:/Users/Pc/Desktop/qn_8/qn_8.srcs/sim_1/new/tb_conter.vhd:13]
+ERROR: [VRFC 10-619] entity port up does not match with type std_logic of component port [C:/Users/Pc/Desktop/qn_8/qn_8.srcs/sim_1/new/tb_conter.vhd:14]
+ERROR: [VRFC 10-619] entity port load does not match with type std_logic of component port [C:/Users/Pc/Desktop/qn_8/qn_8.srcs/sim_1/new/tb_conter.vhd:15]
+ERROR: [VRFC 10-619] entity port d does not match with type std_logic_vector of component port [C:/Users/Pc/Desktop/qn_8/qn_8.srcs/sim_1/new/tb_conter.vhd:17]
+ERROR: [VRFC 10-716] formal port d of mode in cannot be associated with actual port d of mode out [C:/Users/Pc/Desktop/qn_8/qn_8.srcs/sim_1/new/tb_conter.vhd:17]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit tb_counter in library work failed.
