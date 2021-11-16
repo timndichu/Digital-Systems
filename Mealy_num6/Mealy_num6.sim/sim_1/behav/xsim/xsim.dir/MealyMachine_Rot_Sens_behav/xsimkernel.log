@@ -1,0 +1,4 @@
+Running: xsim.dir/MealyMachine_Rot_Sens_behav/xsimk.exe -simmode gui -wdb MealyMachine_Rot_Sens_behav.wdb -simrunnum 0 -socket 16888
+Design successfully loaded
+Design Loading Memory Usage: 6168 KB (Peak: 6168 KB)
+Design Loading CPU Usage: 30 ms

@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Nov 16 19:23:34 2021
+# Process ID: 2136
+# Current directory: C:/Users/Timo/Downloads/Mealy_num6-20211116T161845Z-001/Mealy_num6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8232 C:\Users\Timo\Downloads\Mealy_num6-20211116T161845Z-001\Mealy_num6\Mealy_num6.xpr
+# Log file: C:/Users/Timo/Downloads/Mealy_num6-20211116T161845Z-001/Mealy_num6/vivado.log
+# Journal file: C:/Users/Timo/Downloads/Mealy_num6-20211116T161845Z-001/Mealy_num6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Timo/Downloads/Mealy_num6-20211116T161845Z-001/Mealy_num6/Mealy_num6.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source MealyMachine_Rot_Sens.tcl
+file mkdir C:/Users/Timo/Downloads/Mealy_num6-20211116T161845Z-001/Mealy_num6/Mealy_num6.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/Timo/Downloads/Mealy_num6-20211116T161845Z-001/Mealy_num6/Mealy_num6.srcs/sim_1/new/testbench_Mealy.vhd w ]
+add_files -fileset sim_1 C:/Users/Timo/Downloads/Mealy_num6-20211116T161845Z-001/Mealy_num6/Mealy_num6.srcs/sim_1/new/testbench_Mealy.vhd
+update_compile_order -fileset sim_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+update_compile_order -fileset sources_1
+launch_simulation
+source testbench_Mealy.tcl

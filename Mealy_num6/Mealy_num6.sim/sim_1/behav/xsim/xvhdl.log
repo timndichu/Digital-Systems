@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Timo/Downloads/Mealy_num6-20211116T161845Z-001/Mealy_num6/Mealy_num6.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MealyMachine_Rot_Sens
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Timo/Downloads/Mealy_num6-20211116T161845Z-001/Mealy_num6/Mealy_num6.srcs/sim_1/new/testbench_Mealy.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity testbench_Mealy
