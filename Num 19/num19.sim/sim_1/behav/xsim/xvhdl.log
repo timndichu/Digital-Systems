@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Timo/Documents/DSD/num19/num19.srcs/sources_1/new/Adder32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity serial_adder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Timo/Documents/DSD/num19/num19.srcs/sim_1/new/testbench_Adder32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb

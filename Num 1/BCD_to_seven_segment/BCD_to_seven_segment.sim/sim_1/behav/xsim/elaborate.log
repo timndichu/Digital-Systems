@@ -1,0 +1,16 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto d16e56afbb464bca9d410499f7cdfddc --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_BCD_to_seven_segment_behav xil_defaultlib.tb_BCD_to_seven_segment -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture logic1 of entity xil_defaultlib.inv [inv_default]
+Compiling architecture structural_dec of entity xil_defaultlib.BCD_to_seven_segment [bcd_to_seven_segment_default]
+Compiling architecture behavior of entity xil_defaultlib.tb_bcd_to_seven_segment
+Built simulation snapshot tb_BCD_to_seven_segment_behav

@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Nov 15 16:26:47 2021
+# Process ID: 10124
+# Current directory: C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 3/Num_3c
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9736 C:\Users\user\Documents\GitHub\Digital-Systems-Design\Num 3\Num_3c\Num_3c.xpr
+# Log file: C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 3/Num_3c/vivado.log
+# Journal file: C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 3/Num_3c\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 3/Num_3c/Num_3c.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/user/Desktop/SCHOOL 4.2/DSD/Num_3c' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:10 . Memory (MB): peak = 826.133 ; gain = 112.977
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Nov 15 16:28:40 2021...

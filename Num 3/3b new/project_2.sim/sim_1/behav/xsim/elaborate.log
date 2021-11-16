@@ -1,0 +1,16 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 7976ba4a88e446a0b166a7c6259c6c1c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Tb_Carry_Look_Ahead_behav xil_defaultlib.Tb_Carry_Look_Ahead -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.Partial_Full_Adder [partial_full_adder_default]
+Compiling architecture behavioral of entity xil_defaultlib.Carry_Look_Ahead [carry_look_ahead_default]
+Compiling architecture behavior of entity xil_defaultlib.tb_carry_look_ahead
+Built simulation snapshot Tb_Carry_Look_Ahead_behav

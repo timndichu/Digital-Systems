@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Nov 15 16:26:47 2021
+# Process ID: 10124
+# Current directory: C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 3/Num_3c
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9736 C:\Users\user\Documents\GitHub\Digital-Systems-Design\Num 3\Num_3c\Num_3c.xpr
+# Log file: C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 3/Num_3c/vivado.log
+# Journal file: C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 3/Num_3c\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 3/Num_3c/Num_3c.xpr}
+update_compile_order -fileset sources_1

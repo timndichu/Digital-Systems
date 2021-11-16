@@ -1,0 +1,1 @@
+-wto "f406def5256b4b67a825746bd6699add" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_decoder_3to8_behav" "xil_defaultlib.tb_decoder_3to8" -log "elaborate.log" 

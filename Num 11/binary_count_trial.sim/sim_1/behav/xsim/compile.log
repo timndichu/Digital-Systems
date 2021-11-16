@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/Desktop/SCHOOL 4.2/DSD/binary_count_trial/binary_count_trial.srcs/sources_1/new/num_ones_for.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity num_ones_for
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/Desktop/SCHOOL 4.2/DSD/binary_count_trial/binary_count_trial.srcs/sim_1/new/tb_ones.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_ones

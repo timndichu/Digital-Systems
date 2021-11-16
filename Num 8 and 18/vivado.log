@@ -1,0 +1,40 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Nov 15 16:21:27 2021
+# Process ID: 7132
+# Current directory: C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 8 and 18
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5608 C:\Users\user\Documents\GitHub\Digital-Systems-Design\Num 8 and 18\qn_8.xpr
+# Log file: C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 8 and 18/vivado.log
+# Journal file: C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 8 and 18\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/user/Documents/GitHub/Digital-Systems-Design/Num 8 and 18/qn_8.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/Pc/Desktop/qn_8' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:35 . Memory (MB): peak = 754.043 ; gain = 104.047
+update_compile_order -fileset sources_1
+close_project
+open_project {C:/Users/user/Desktop/SCHOOL 4.2/DSD/BCD_to_seven_segment/BCD_to_seven_segment.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+update_compile_order -fileset sources_1
+close_project
+open_project {C:/Users/user/Desktop/SCHOOL 4.2/DSD/Num_3c/Num_3c.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:07 ; elapsed = 00:00:05 . Memory (MB): peak = 794.273 ; gain = 5.680
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Nov 15 16:28:44 2021...

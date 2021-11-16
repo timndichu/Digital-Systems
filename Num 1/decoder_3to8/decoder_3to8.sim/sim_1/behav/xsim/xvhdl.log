@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/Desktop/SCHOOL 4.2/DSD/decoder_3to8/decoder_3to8.srcs/sources_1/new/decoder_3to8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity decoder_3to8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/Desktop/SCHOOL 4.2/DSD/decoder_3to8/decoder_3to8.srcs/sources_1/new/inv.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity inv
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/Desktop/SCHOOL 4.2/DSD/decoder_3to8/decoder_3to8.srcs/sim_1/new/tb_decoder_3to8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_decoder_3to8
